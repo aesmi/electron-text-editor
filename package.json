@@ -1,0 +1,15 @@
+{
+  "name": "electron-text-editor",
+  "version": "1.0.0",
+  "description": "electron-based text editor",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Andy",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^13.1.7",
+    "electron-reload": "^1.5.0"
+  }
+}
